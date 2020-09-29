@@ -1,4 +1,5 @@
 # nvidia-snatcher-docker
+A dockerized version of the nvidia snatcher to be ran on headless systems. Use this version to send yourself email/discord/telegram notifications as functions like opening the browser or playing a sound wont work inside a container.
 
 ## Credits
 All credits for the nvidia snatcher go to jef and the contributors mentioned at https://github.com/jef/nvidia-snatcher
