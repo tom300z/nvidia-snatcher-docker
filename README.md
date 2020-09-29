@@ -1,5 +1,7 @@
 # nvidia-snatcher-docker
 
+## Credits
+All credits for the nvidia snatcher go to jef and the contributors mentioned at https://github.com/jef/nvidia-snatcher
 
 ## docker compose example
 ```
