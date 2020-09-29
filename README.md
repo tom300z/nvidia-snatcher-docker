@@ -27,6 +27,6 @@ services:
 
 ## Setup guide
 With the compose file above you are pretty much ready to go, just make sure that you set the important environment variables and enclose all of the environment variables in quotes (example: - 'ENV=val').
-If you have any issues open an issue on github (please dont forget to attach your logs).
+If you have any issues, feel free to open an issue on github (please dont forget to attach your logs).
 
 Have fun!
